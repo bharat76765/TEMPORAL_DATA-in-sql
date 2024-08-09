@@ -1,4 +1,5 @@
-#*Case study on Tempral data in sql*
+#Case study on Tempral data in sql
+
 This case study involves experimenting with temporal data in SQL to gain deeper insights into stock market trends. The dataset includes various details about Nifty stock prices and trading volumes, specifically:
 
 - **Date**: The date of the trading record.
