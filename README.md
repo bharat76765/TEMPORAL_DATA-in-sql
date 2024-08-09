@@ -1,4 +1,4 @@
-#Case study on Tempral data in sql
+# Case study on Tempral data in sql
 
 This case study involves experimenting with temporal data in SQL to gain deeper insights into stock market trends. The dataset includes various details about Nifty stock prices and trading volumes, specifically:
 
@@ -31,9 +31,3 @@ The following questions are addressed in this study:
 9. **Average Turnover on First Trading Day of Each Month (First 4 Months of 2020)**: Finds the average turnover on the first trading day of each month.
 
 10. **Number of Days with Closing Price Higher than Opening Price (First 4 Months of 2020)**: Counts the number of days where the closing price was higher than the opening price.
-
-This exploration helps in understanding how to work with temporal data and uncovering insights based on different time intervals.
-
----
-
-Feel free to adjust as needed!
